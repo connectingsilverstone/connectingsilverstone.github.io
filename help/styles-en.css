@@ -1,0 +1,13 @@
+﻿.download-text {
+     font-size: 18px;
+     padding-top: 16px;
+}
+
+#dnDownloadButton {
+	position: relative;
+	top: 0;
+}
+* html .btnDownload2 {
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../styles/download-closed-empty.png', sizingMethod='image');
+}
